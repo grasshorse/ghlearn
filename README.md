@@ -8,16 +8,16 @@ Grasshorse Learning Material
 
 ----
 
-## [Network](https://netstack.org/docs/lan/network/) - [pfsense](https://pfsense.org) - [ng.gh.lan](http://ng.gh.lan) - [192.168.253.254](http://192.168.253.254) sb 252.1
+## [Network](https://netstack.org/docs/lan/network/) via [pfsense](https://pfsense.org) for [ng.gh.lan](http://ng.gh.lan) - [192.168.253.254](http://192.168.253.254) sb 252.1
 1. [youtube - ghlearn Network Overview 2020](https://youtu.be/INU3BqtyBZQ)
 2. [youtube - ghlearn gh.lan Network Detail](https://youtu.be/HJzfB8MpkJg) detail index [document - ghlanOverviewDetail](http://gh.2cld.net/docs/pfsense/ghlanOverviewDetail)
 
-## [Storage](https://netstack.org/docs/lan/storage/)  - [freenas](https://freenas.org) - [sg.gh.lan](http://sg.gh.lan) - [192.168.252.2](http://192.168.252.2)
+## [Storage](https://netstack.org/docs/lan/storage/) via [freenas](https://freenas.org) for [sg.gh.lan](http://sg.gh.lan) - [192.168.252.2](http://192.168.252.2)
 1. [youtube - ghlearn Storage Gateway Part1 - Media Share](https://youtu.be/QW0eGZtrELs) - [document - Netstack FreeNAS - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
 2. [youtube - ghlearn Storage Gateway Part2 - Create DataSet](https://youtu.be/kt5hubC1tX0) - [document - Netstack FreeNAS - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
 3. [youtube - ghlearn Storage Gateway Part3 - TestStorage](https://youtu.be/i1UxlGZPs1c)
 
-## [Compute](https://netstack.org/docs/lan/compute/)  - [xcp-ng](https://xcp-ng.org) - [cg.gh.lan](http://cg.gh.lan) - [192.168.252.3](http://192.168.252.3)
+## [Compute](https://netstack.org/docs/lan/compute/) via [xcp-ng](https://xcp-ng.org) for [cg.gh.lan](http://cg.gh.lan) - [192.168.252.3](http://192.168.252.3)
 1. [tbd youtube - compute - cg.gh.lan]()
 
 ---
