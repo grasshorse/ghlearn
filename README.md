@@ -9,8 +9,8 @@ Grasshorse Learning Material
 ----
 
 ## Network - [pfsense](pfsense.org) - [ng.gh.lan](http://ng.gh.lan) - [192.168.253.254](http://192.168.253.254) sb 252.1
-1. [youtube - network gh.lan](https://youtu.be/INU3BqtyBZQ)
-2. [youtube - network - ng.gh.lan](https://youtu.be/HJzfB8MpkJg)
+1. [youtube - ghlearn Network Overview 2020](https://youtu.be/INU3BqtyBZQ)
+2. [youtube - ghlearn gh.lan Network Detail](https://youtu.be/HJzfB8MpkJg) - [document - ghlanOverviewDetail](http://gh.2cld.net/docs/pfsense/ghlanOverviewDetail)
 
 ## Storage - [freenas](freenas.org) - [sg.gh.lan](http://sg.gh.lan) - [192.168.252.2](http://192.168.252.2)
 1. [youtube - ghlearn Storage Gateway Part1 - Media Share](https://youtu.be/QW0eGZtrELs) - [document - Netstack FreeNAS - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
