@@ -4,7 +4,7 @@ Grasshorse Learning Material
 ## [GrasshorseLearn](https://www.youtube.com/channel/UCmsVjwDg8Qc6NQbsAuXeh5A) YouTube Learning Tutorials
 # Overviews
 - [youtube - ghlearn Overview 2020](https://youtu.be/NyJJvPpoafA) Digital Infrastructure principles
-- [youtube - glearn Netstack 2020](https://youtu.be/fWCfG13xkaQ) Netstack methods at Grasshorse
+- [youtube - glearn Netstack 2020](https://youtu.be/fWCfG13xkaQ) Netstack methods at Grasshorse [https://netstack.org/docs/lan/](https://netstack.org/docs/lan/)
 
 ----
 
