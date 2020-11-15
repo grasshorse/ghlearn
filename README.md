@@ -26,6 +26,9 @@ Grasshorse Learning Material
 ## [Document](https://netstack.org/docs/lan/document/) via [gitlab](gitlab.org) for [dg.gh.lan](http://dg.gh.lan) lan IP [192.168.252.9](http://192.168.252.9)
 1. [tbd youtube - document - dg.gh.lan]()
 
+## [Backup](https://netstack.org/docs/lan/backup/)
+1. [tbd youtube - backup - bg.gh.lan]()
+
 <!-- Grasshorse Learning youtube maintained by ghadmin - horseoff -->
 
 ### References
